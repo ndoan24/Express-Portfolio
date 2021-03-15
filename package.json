@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ndoan24/Express-Portfolio/issues"
   },
-  "homepage": "https://github.com/ndoan24/Express-Portfolio#readme"
+  "homepage": "https://github.com/ndoan24/Express-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
