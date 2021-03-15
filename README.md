@@ -1,8 +1,5 @@
 # Express-Portfolio
 
-# Movie-App
-
-
 
 ## **Developer**: Ngoc Doan
 ## **Place:** *Denver, CO*
